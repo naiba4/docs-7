@@ -13,6 +13,6 @@
   },
   "homepage": "https://docs.eosnetwork.com",
   "devDependencies": {
-    "js-yaml": "^4.1.0"
+    "js-yaml": "^4.1.1"
   }
 }
